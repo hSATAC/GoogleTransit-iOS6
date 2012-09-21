@@ -79,7 +79,7 @@
 - (void) openTransitDirections
 {
 	if (self.currentSource && self.currentDestination){
-		NSString *directionsURLString = [NSString stringWithFormat:@"https://maps.google.com/maps?f=d&source=s_d&saddr=%@&daddr=%@&hl=en&vps=3&jsv=432b&vpsrc=0&gl=us&dirflg=r&ttype=now&noexp=0&noal=0&sort=def&mra=atm&ie=UTF8&ui=maps_mini",
+		NSString *directionsURLString = [NSString stringWithFormat:@"https://maps.google.com.tw/maps?f=d&source=s_d&saddr=%@&daddr=%@&hl=zh_tw&vps=3&jsv=432b&vpsrc=0&gl=us&dirflg=r&ttype=now&noexp=0&noal=0&sort=def&mra=atm&ie=UTF8&ui=maps_mini",
 										 self.currentSource, self.currentDestination];
 		
 		NSURL *directionsURL = [NSURL URLWithString:directionsURLString];
