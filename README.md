@@ -1,14 +1,15 @@
 # GoogleTransit-iOS6
 
-Miss transit directions in iOS 6? Want to go back to Google?
+Forked from https://github.com/simonmaddox/GoogleTransit-iOS6
 
-This should help. It's a simple app that registers as a routing provider worldwide.
+修改為跳轉中文版 Google Maps
 
-When you choose it as your routing app, Google Maps will open in Safari with the appropriate 
-directions.
+iOS 6 地圖 App 沒有大眾運輸規劃功能。
 
-![Screenshot 0](https://github.com/simonmaddox/GoogleTransit-iOS6/blob/master/screenshot0.png?raw=true)
+安裝此程式即可在 iOS 6 地圖 App 規劃大眾運輸路線，自動跳轉到 Google Maps mobile web 版。
 
-![Screenshot](https://github.com/simonmaddox/GoogleTransit-iOS6/blob/master/screenshot.png?raw=true)
+![Screenshot 0](https://github.com/hSATAC/GoogleTransit-iOS6/blob/master/screenshot0.png?raw=true)
 
-![Screenshot 1](https://github.com/simonmaddox/GoogleTransit-iOS6/blob/master/screenshot1.png?raw=true)
+![Screenshot](https://github.com/hSATAC/GoogleTransit-iOS6/blob/master/screenshot.png?raw=true)
+
+![Screenshot 1](https://github.com/hSATAC/GoogleTransit-iOS6/blob/master/screenshot1.png?raw=true)
